@@ -1,0 +1,201 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.contactbar{
+	margin: 0;
+	height: 43px;
+	background-color: #403F40;
+	
+	
+}
+.left_contact ul{
+	
+	
+}
+
+.left_contact ul li{
+	list-style: none;
+	float: left;
+	padding: 0px 10px;
+	color: #fff;
+	font-size: 15px;
+	text-decoration: none;
+	margin: 10px 0px;
+		
+}
+
+.hero_area{
+	height: 1100px;
+	background-image: url(../images/top_back01.jpg);
+	background-size: cover;
+	background-position: center;
+	
+}
+
+.menu{
+	margin: 0;
+	
+}
+
+.menu ul{
+	
+	
+}
+
+.menu ul li{
+	list-style: none;
+		float: right;
+	
+	
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 0 20px;
+	border-right: 2px solid red;
+	transition: .3s;
+	
+	
+}
+
+.menu ul li a:hover{
+	text-decoration: none;
+	color: #000;
+	padding: 0 20px;
+	border-right: 10px solid red;
+	border-radius: 10%;
+	font-size: 25px;
+	position: sticky;
+}
+
+.logo{
+	margin: 0px 50px;
+}
+
+
+
+
+
+.hero_area ul{
+	padding: 30px 10px;
+}
+
+.hero_area ul li{
+	list-style: none;
+	
+}
+
+.content{
+	top: 50%;
+	float: left;
+}
+	
+	
+.content ul{
+	float: left;
+	
+}
+
+.content ul li{
+	list-style: none;
+	
+}
+
+#section_info{
+	
+	margin: 300px;
+	height: 800px;
+	transition: .5s;
+}
+
+.container h2{
+	top: 50px;
+	text-align: center;
+	padding: 10px 10px;
+	border-bottom: 5px solid red;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	
+}
+
+.pic_content{
+	margin-top: 200px;
+	
+}
+	
+#contacts{
+	margin-top: 300px;
+	height: 800px;
+	text-align: center;
+	
+}	
+	
+
+#contacts p{
+	
+	transition: .5s;
+}	
+
+
+
+
+#contacts p:hover{
+	font-size: 50px;
+	background-color: aquamarine;
+	padding: 0px 5px;
+}	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+.lefe_side_iamge{
+	padding: 50px;
+	
+}
+
+
+
+.col-md-3 {
+	top: 50%;
+	float: left;
+	
+}
+.cont-image{
+	padding: 0px;
+	width: 250px;
+	height: 200px;
+	border-radius: 50%;
+	transition: .5s;
+}
+
+.conten1 h1{
+	font-size: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.cont-image:hover{
+	padding: 20px;
+	width: 250px;
+	height: 200px;
+	border-radius: 0% 20%;
+	
+}
